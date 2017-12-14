@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void dibujar(){
-        System.out.println("HOLA QEU TALL");
-        System.out.println("Hola soy abel");
+        System.out.println("hola mundo");
+        System.out.println("dfljhaslkfhkashdflkjasdhkasj");
     }
 }
