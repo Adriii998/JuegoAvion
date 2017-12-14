@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void dibujar(){
         System.out.println("hola mundo");
-        System.out.println("dfljhaslkfhkashdflkjasdhkasj");
+        System.out.println("aosdfjowduignrwqeliugkdhvnq3rilyehkdsbvir");
+        sout("ESTE ES DE ADRIAN");
     }
 }
