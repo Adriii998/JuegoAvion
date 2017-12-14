@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public void dibujar(){
         System.out.println("HOLA QEU TALL");
+        System.out.println("Hola soy abel");
     }
 }
