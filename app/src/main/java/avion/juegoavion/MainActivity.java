@@ -8,12 +8,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        dibujar();
         setContentView(R.layout.activity_main);
-    }
-    public void dibujar(){
-        System.out.println("hola mundo");
-        System.out.println("aosdfjowduignrwqeliugkdhvnq3rilyehkdsbvir");
-        sout("ESTE ES DE ADRIAN");
     }
 }
