@@ -36,6 +36,7 @@ public class Vista extends SurfaceView implements SurfaceHolder.Callback{
         game.getWindowManager().getDefaultDisplay().getRectSize(screen);
         ancho=screen.width();
         alto=screen.height();
+        System.out.println("Prueba");
     }
 
 
